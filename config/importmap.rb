@@ -15,3 +15,4 @@ pin "stimulus_reflex", to: "stimulus_reflex.js"
 
 pin_all_from "app/javascript/controllers", under: "controllers"
 pin_all_from "app/javascript/config", under: "config"
+pin_all_from "app/javascript/channels", under: "channels"
