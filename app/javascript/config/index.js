@@ -1,2 +1,2 @@
-import "./stimulus_reflex"
-import "./cable_ready"
+import "config/stimulus_reflex"
+import "config/cable_ready"
